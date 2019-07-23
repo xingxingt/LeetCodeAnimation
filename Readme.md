@@ -1,15 +1,3 @@
-![LeetCode Animation All in One](https://upload-images.jianshu.io/upload_images/1940317-e837182a805cecce.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-[![Travis](https://img.shields.io/badge/language-C++-red.svg)](https://developer.apple.com/.md)
-[![Travis](https://img.shields.io/badge/language-Java-yellow.svg)](https://developer.apple.com/.md)
-
-
-[There is an English version of README here. just click it！](https://github.com/MisterBooo/LeetCodeAnimation/blob/master/README-En.md)
-
-我会尽力将 LeetCode 上所有的题目都用动画的形式演示出来，计划用 3 到 4 年时间去完成它，期待与你见证这一天！
-
-文章最新首发于微信公众号 **五分钟学算法** ，您可以关注获取最新的文章。
-
 ## 汇总
 
 | 序号 | 题目&题解                                                    |
@@ -93,25 +81,6 @@
 2018-12-29 说明：
 
 [《2019年LeetCodeAnimationd的更新计划》](https://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247484375&idx=1&sn=5a5482d9863342650d8b43bb59171f7c&chksm=fa0e6c56cd79e540115e52500b80c8e72001c87ddceb7c0ae1de166fd283d632b960cde41aca&token=578760218&lang=zh_CN#rd)
-
-2018-12-07 说明：
-
-为了更好的做好 LeetCode 动画，笔者正在努力的学习更多的数据结构与算法。
-
-笔者目前正在写数据结构的文章与动画，将《动画图解数据结构》系列文章写完后将继续更新此仓库。
-
-邮箱：misterbigbooo@gmail.com
-
-喜欢就 star❤️ 一下吧！
-
-## 和我交流
-
-
-
-| 二维码 |  说明 |
-| --- | ---  |
-|![](https://raw.githubusercontent.com/MisterBooo/myBlogPic/master/20190711094817.png) | 欢迎前来和程序员小吴一起学算法 |
-|![](https://raw.githubusercontent.com/MisterBooo/myBlogPic/master/20190625171010.jpeg) | 扫描小程序阅读最新算法文章 |
 
 
 
